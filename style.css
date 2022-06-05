@@ -1,0 +1,39 @@
+
+.heading{
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+}
+.heading h1{
+    float: left;
+}
+.heading button{
+    float: right;
+}
+.big_picture{
+    width: 100%;
+}
+body{
+    text-align: center;
+}
+.play_button{
+    color: rgb(255, 255, 255);
+    background-color: red;
+    border-radius: 30402394203px;
+    width: 20%;
+    height: 25%;
+    padding: 10px;
+}
+.im{
+    display: inline-block;
+    width: 45%;
+}
+.modal-dialog{
+    width: 90%;
+}
+video{
+    
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
